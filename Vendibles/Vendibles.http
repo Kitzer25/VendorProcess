@@ -1,0 +1,6 @@
+@Vendibles_HostAddress = http://localhost:5161
+
+GET {{Vendibles_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

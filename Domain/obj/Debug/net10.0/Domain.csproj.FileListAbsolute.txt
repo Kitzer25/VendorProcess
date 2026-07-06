@@ -1,0 +1,11 @@
+K:\Elementos\Rider\Vendibles\Vendibles\Domain\bin\Debug\net10.0\Domain.deps.json
+K:\Elementos\Rider\Vendibles\Vendibles\Domain\bin\Debug\net10.0\Domain.dll
+K:\Elementos\Rider\Vendibles\Vendibles\Domain\bin\Debug\net10.0\Domain.pdb
+K:\Elementos\Rider\Vendibles\Vendibles\Domain\obj\Debug\net10.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+K:\Elementos\Rider\Vendibles\Vendibles\Domain\obj\Debug\net10.0\Domain.AssemblyInfoInputs.cache
+K:\Elementos\Rider\Vendibles\Vendibles\Domain\obj\Debug\net10.0\Domain.AssemblyInfo.cs
+K:\Elementos\Rider\Vendibles\Vendibles\Domain\obj\Debug\net10.0\Domain.csproj.CoreCompileInputs.cache
+K:\Elementos\Rider\Vendibles\Vendibles\Domain\obj\Debug\net10.0\Domain.dll
+K:\Elementos\Rider\Vendibles\Vendibles\Domain\obj\Debug\net10.0\refint\Domain.dll
+K:\Elementos\Rider\Vendibles\Vendibles\Domain\obj\Debug\net10.0\Domain.pdb
+K:\Elementos\Rider\Vendibles\Vendibles\Domain\obj\Debug\net10.0\ref\Domain.dll

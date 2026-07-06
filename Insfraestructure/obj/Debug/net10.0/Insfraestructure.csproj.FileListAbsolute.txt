@@ -1,0 +1,15 @@
+K:\Elementos\Rider\Vendibles\Vendibles\Insfraestructure\bin\Debug\net10.0\Insfraestructure.deps.json
+K:\Elementos\Rider\Vendibles\Vendibles\Insfraestructure\bin\Debug\net10.0\Insfraestructure.dll
+K:\Elementos\Rider\Vendibles\Vendibles\Insfraestructure\bin\Debug\net10.0\Insfraestructure.pdb
+K:\Elementos\Rider\Vendibles\Vendibles\Insfraestructure\bin\Debug\net10.0\Domain.dll
+K:\Elementos\Rider\Vendibles\Vendibles\Insfraestructure\bin\Debug\net10.0\Domain.pdb
+K:\Elementos\Rider\Vendibles\Vendibles\Insfraestructure\obj\Debug\net10.0\Insfraestructure.csproj.AssemblyReference.cache
+K:\Elementos\Rider\Vendibles\Vendibles\Insfraestructure\obj\Debug\net10.0\Insfraestructure.GeneratedMSBuildEditorConfig.editorconfig
+K:\Elementos\Rider\Vendibles\Vendibles\Insfraestructure\obj\Debug\net10.0\Insfraestructure.AssemblyInfoInputs.cache
+K:\Elementos\Rider\Vendibles\Vendibles\Insfraestructure\obj\Debug\net10.0\Insfraestructure.AssemblyInfo.cs
+K:\Elementos\Rider\Vendibles\Vendibles\Insfraestructure\obj\Debug\net10.0\Insfraestructure.csproj.CoreCompileInputs.cache
+K:\Elementos\Rider\Vendibles\Vendibles\Insfraestructure\obj\Debug\net10.0\Insfraes.765A45D8.Up2Date
+K:\Elementos\Rider\Vendibles\Vendibles\Insfraestructure\obj\Debug\net10.0\Insfraestructure.dll
+K:\Elementos\Rider\Vendibles\Vendibles\Insfraestructure\obj\Debug\net10.0\refint\Insfraestructure.dll
+K:\Elementos\Rider\Vendibles\Vendibles\Insfraestructure\obj\Debug\net10.0\Insfraestructure.pdb
+K:\Elementos\Rider\Vendibles\Vendibles\Insfraestructure\obj\Debug\net10.0\ref\Insfraestructure.dll
