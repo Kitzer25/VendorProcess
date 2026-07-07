@@ -8,7 +8,7 @@
       "applicationUrl": "http://localhost:5161",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development",
-        "DataBaseConnection": "Supabse",
+        "DataBaseConnection": "Postgres",
         "ConnectionStrings__DefaultConnection": "Host=db.wletohgiseveqlqcbidc.supabase.co;Port=5432;Database=postgres;Username=postgres;Password=Db_Migration$2511Ct",
         "JwtSettings__Secret": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiYWRtaW4iOnRydWUsImlhdCI6MTUxNjIzOTAyMn0.KMUFsIDTnFmyG3nMiGM6H9FNFUROf3wh7SmqJp-QV30",
         "JwtSettings__Issuer": "GFSanPedro",
