@@ -26,8 +26,8 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "K:\\Elementos\\Rider\\Vendibles\\Vendibles\\Insfraestructure\\Insfraestructure.csproj": {
-                "projectPath": "K:\\Elementos\\Rider\\Vendibles\\Vendibles\\Insfraestructure\\Insfraestructure.csproj"
+              "K:\\Elementos\\Rider\\Vendibles\\Vendibles\\Infraestructure\\Infraestructure.csproj": {
+                "projectPath": "K:\\Elementos\\Rider\\Vendibles\\Vendibles\\Infraestructure\\Infraestructure.csproj"
               }
             }
           }
@@ -674,14 +674,14 @@
         }
       }
     },
-    "K:\\Elementos\\Rider\\Vendibles\\Vendibles\\Insfraestructure\\Insfraestructure.csproj": {
+    "K:\\Elementos\\Rider\\Vendibles\\Vendibles\\Infraestructure\\Infraestructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "K:\\Elementos\\Rider\\Vendibles\\Vendibles\\Insfraestructure\\Insfraestructure.csproj",
-        "projectName": "Insfraestructure",
-        "projectPath": "K:\\Elementos\\Rider\\Vendibles\\Vendibles\\Insfraestructure\\Insfraestructure.csproj",
+        "projectUniqueName": "K:\\Elementos\\Rider\\Vendibles\\Vendibles\\Infraestructure\\Infraestructure.csproj",
+        "projectName": "Infraestructure",
+        "projectPath": "K:\\Elementos\\Rider\\Vendibles\\Vendibles\\Infraestructure\\Infraestructure.csproj",
         "packagesPath": "C:\\Users\\Spart\\.nuget\\packages\\",
-        "outputPath": "K:\\Elementos\\Rider\\Vendibles\\Vendibles\\Insfraestructure\\obj\\",
+        "outputPath": "K:\\Elementos\\Rider\\Vendibles\\Vendibles\\Infraestructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Spart\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -1054,8 +1054,8 @@
               "K:\\Elementos\\Rider\\Vendibles\\Vendibles\\Application\\Application.csproj": {
                 "projectPath": "K:\\Elementos\\Rider\\Vendibles\\Vendibles\\Application\\Application.csproj"
               },
-              "K:\\Elementos\\Rider\\Vendibles\\Vendibles\\Insfraestructure\\Insfraestructure.csproj": {
-                "projectPath": "K:\\Elementos\\Rider\\Vendibles\\Vendibles\\Insfraestructure\\Insfraestructure.csproj"
+              "K:\\Elementos\\Rider\\Vendibles\\Vendibles\\Infraestructure\\Infraestructure.csproj": {
+                "projectPath": "K:\\Elementos\\Rider\\Vendibles\\Vendibles\\Infraestructure\\Infraestructure.csproj"
               }
             }
           }

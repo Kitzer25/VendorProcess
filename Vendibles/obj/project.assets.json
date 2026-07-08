@@ -905,7 +905,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v10.0",
         "dependencies": {
-          "Insfraestructure": "1.0.0"
+          "Infraestructure": "1.0.0"
         },
         "compile": {
           "bin/placeholder/Application.dll": {}
@@ -924,7 +924,7 @@
           "bin/placeholder/Domain.dll": {}
         }
       },
-      "Insfraestructure/1.0.0": {
+      "Infraestructure/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v10.0",
         "dependencies": {
@@ -935,10 +935,10 @@
           "Pomelo.EntityFrameworkCore.MySql": "9.0.0"
         },
         "compile": {
-          "bin/placeholder/Insfraestructure.dll": {}
+          "bin/placeholder/Infraestructure.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Insfraestructure.dll": {}
+          "bin/placeholder/Infraestructure.dll": {}
         }
       }
     }
@@ -2906,16 +2906,16 @@
       "path": "../Domain/Domain.csproj",
       "msbuildProject": "../Domain/Domain.csproj"
     },
-    "Insfraestructure/1.0.0": {
+    "Infraestructure/1.0.0": {
       "type": "project",
-      "path": "../Insfraestructure/Insfraestructure.csproj",
-      "msbuildProject": "../Insfraestructure/Insfraestructure.csproj"
+      "path": "../Infraestructure/Infraestructure.csproj",
+      "msbuildProject": "../Infraestructure/Infraestructure.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net10.0": [
       "Application >= 1.0.0",
-      "Insfraestructure >= 1.0.0",
+      "Infraestructure >= 1.0.0",
       "Microsoft.AspNetCore.OpenApi >= 10.0.5",
       "Microsoft.EntityFrameworkCore.Design >= 9.0.5",
       "Microsoft.EntityFrameworkCore.Tools >= 9.0.5",
@@ -2951,8 +2951,8 @@
             "K:\\Elementos\\Rider\\Vendibles\\Vendibles\\Application\\Application.csproj": {
               "projectPath": "K:\\Elementos\\Rider\\Vendibles\\Vendibles\\Application\\Application.csproj"
             },
-            "K:\\Elementos\\Rider\\Vendibles\\Vendibles\\Insfraestructure\\Insfraestructure.csproj": {
-              "projectPath": "K:\\Elementos\\Rider\\Vendibles\\Vendibles\\Insfraestructure\\Insfraestructure.csproj"
+            "K:\\Elementos\\Rider\\Vendibles\\Vendibles\\Infraestructure\\Infraestructure.csproj": {
+              "projectPath": "K:\\Elementos\\Rider\\Vendibles\\Vendibles\\Infraestructure\\Infraestructure.csproj"
             }
           }
         }
