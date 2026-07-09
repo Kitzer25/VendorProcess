@@ -8,7 +8,6 @@
 
     <ItemGroup>
       <Folder Include="Ports\Repositories\ERepositories\" />
-      <Folder Include="Ports\Services\" />
     </ItemGroup>
 
 </Project>
